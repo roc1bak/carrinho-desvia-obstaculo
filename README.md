@@ -1,7 +1,7 @@
 # Robô Desvia-Obstáculos com ESP32
 
 ## Sobre o projeto
-
+Projeto do segundo semestre de Engenharia da Computação 
 Este projeto consiste no desenvolvimento de um carrinho robótico autônomo capaz de percorrer uma pista, semelhante a um circuito de Fórmula 1, identificando obstáculos e desviando deles automaticamente.
 
 O sistema utiliza um ESP32 para controlar dois motores DC e interpretar as informações de três sensores ultrassônicos HC-SR04. Com base nas distâncias medidas, o carrinho decide quando seguir em frente, virar ou recuar.
